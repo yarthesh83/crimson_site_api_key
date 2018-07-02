@@ -1,0 +1,7 @@
+site_api_key_json:
+  path: 'node_to_json/{route_site_api_key}/{id}'
+  defaults:
+    _title: 'Basic Page Node to JSON'
+    _controller: '\Drupal\site_api_key\Controller\siteApiKeyController::node_to_json'
+  requirements:
+    _permission: 'access content'

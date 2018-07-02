@@ -1,0 +1,5 @@
+name: Site Api Key For Json
+type: module
+description: 'This modules add site APi Key on sIte information page'
+package: Custom Module
+core: 8.x
