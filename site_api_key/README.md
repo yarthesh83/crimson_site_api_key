@@ -2,7 +2,7 @@ MODULE
 ------
 Basic page node to json using a site API key
 
-SON Encode URL
+JSON Encode URL
 -----------------
 URL : http(s)://sitename/node_to_json/SITEAPIKEY/<NODE_ID>
 
