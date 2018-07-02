@@ -4,5 +4,5 @@ description: 'This modules add site APi Key on sIte information page'
 package: Custom Module
 core: 8.x
 dependencies:
-  - serializer
+  - serialization 
 datestamp: 1530512069
